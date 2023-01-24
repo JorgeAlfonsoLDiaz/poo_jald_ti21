@@ -5,4 +5,4 @@
 |No.|Archivo|Descripción|
 |--|--|--|
 |1.|programa0.py|Hola mundo en Python!|
-t
+|2.|programa1.py|Comentarios multilínea, comentarios       de una sola línea, concatenación de cadenas y          cadenas de caracteres.|
