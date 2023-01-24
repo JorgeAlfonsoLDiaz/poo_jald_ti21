@@ -7,7 +7,7 @@
 numero1 = 10  # Variable tipo int
 numero2 = 5  # Variable tipo int
 
-print(numero1 + numero2  # Imprime resultado: 15
+print(numero1 + numero2)  # Imprime resultado: 15
 
 print("{}+{}={}".format(numero1,numero2,numero1+numero2))  # Imprime la suma de numero1 y numero2
 
