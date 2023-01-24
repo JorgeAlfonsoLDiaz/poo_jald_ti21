@@ -6,4 +6,5 @@
 """
 variable1 = "Hola"  # Variable tipo
 variable2 = 619  #Variable tipo
-print("{} {}".format(variable1,variable2))
+print("{} {}".format(variable1,variable2)) 
+ # Imprime la concatenación de 2 variables utilizando str.format
