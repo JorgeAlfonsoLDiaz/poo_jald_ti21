@@ -9,3 +9,4 @@
 |3.|programa2.py|Concatenación utilizando str.format.|
 |4.|programa3.py|Uso de print en conjunto con operaciones aritméticas.|
 |5.|programa4.py|Uso de print y str.format de diferentes maneras.|
+|6.|programa5.py|Uso de input() y el casting de las entradas de datos.|
