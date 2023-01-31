@@ -1,8 +1,8 @@
 """
-    Programa4
+    Programa5
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 26/01/2023
-    Descripción: Uso de input() para pedir          entrada de datos al usuario y "casting"         de la respuesta para poder sumarlo con          números enteros.
+    Descripción: Uso de input() para pedir entrada de datos al usuario y "casting" de la respuesta para poder sumarlo con números enteros.
 """
 numero1 = input("Número1 (suma): ")  # Se pide al usuario que introduzca el primer número, a través de un input.
 numero2 = input("Número2 (suma): ")  # Se crea la variable numero2 que guarda el segundo número de la suma.
@@ -25,6 +25,6 @@ cociente = int(numero1) / int(numero2)  # Se realiza la suma correspondiente, re
 print(cociente)  # Se imprime el valor de la variable 'cociente'.
 
 numero1 = input("Número1 (potencia): ")  # Se pide al usuario que introduzca el primer número, a través de un input.
-numero2 = 2  # Se crea la variable numero2 que guarda el valor del exponente.
+numero2 = input("Número2 (potencia): ")  # Se crea la variable numero2 que guarda el valor del exponente.
 potencia = int(numero1) ** numero2  # Se realiza la potenciación correspondiente, realizando el "casting" necesario para que se pueda elevar al cuadrado.
 print(potencia)  # Se imprime el valor de la variable 'potencia'.
