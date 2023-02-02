@@ -11,3 +11,4 @@
 |5.|programa4.py|Uso de print y str.format de diferentes maneras.|
 |6.|programa5.py|Uso de input() y el casting de las entradas de datos.|
 |7.|programa6.py|Cálculo del área y perímetro de un triángulo utilizando input() y otras funciones. (ejercicio).|
+|8.|programa7.py|Cálculo del área y perímetro de un círculo y un cuadrado utilizando input() y otras funciones. (ejercicio en clase).|
