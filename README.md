@@ -12,3 +12,6 @@
 |6.|programa5.py|Uso de input() y el casting de las entradas de datos.|
 |7.|programa6.py|Cálculo del área y perímetro de un triángulo utilizando input() y otras funciones. (ejercicio).|
 |8.|programa7.py|Cálculo del área y perímetro de un círculo y un cuadrado utilizando input() y otras funciones. (ejercicio en clase).|
+|9.|programa8.py|Código que incluye 11 maneras diferentes de resolver un mismo problema.|
+|10.|programa9.py|Uso de una función para verificarla con un unit test.|
+|11.|programa10.py|Uso de una función para verificarla con un unit test (haciendo uso de "the Pythonic way" o typing).|
