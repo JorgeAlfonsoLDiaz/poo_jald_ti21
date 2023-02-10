@@ -2,7 +2,7 @@
     Programa10
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 09/02/2023
-    Descripción: Código que utiliza un método y typing para resolver un problema y                verificarlo con un "Unit test"
+    Descripción: Código que utiliza un método y typing para resolver un problema y                verificarlo con un         "Unit test"
 """
 
 def mayor(numero1:int, numero2:int)->int|None:

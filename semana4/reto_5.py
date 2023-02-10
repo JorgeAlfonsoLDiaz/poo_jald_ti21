@@ -2,7 +2,7 @@
     Reto_5
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 08/02/2023
-    Descripción: Código en Python que calcula la hipotenusa de un triángulo rectángulo a partir de la medida de sus catetos.
+    Descripción: Código en Python que calcula la hipotenusa de un triángulo rectángulo a partir de la medida de sus          catetos.
 """
 print("Bienvenido, aquí podrá calcular el valor de la hipotenusa de un triángulo rectángulo a partir de la medida de sus catetos. \n")  # Imprime en pantalla un mensaje de bienvenida al usuario
 a = int(input("Introduzca el valor del primer cateto del triángulo: "))  # Guarda en la variable "a" la entrada de datos del usuario para la medida del primer cateto.
