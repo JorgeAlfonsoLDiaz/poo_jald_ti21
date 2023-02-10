@@ -1,7 +1,7 @@
 """
     Reto_6
     Nombre: Jorge Alfonso Luqueño Díaz
-    Fecha: 08/02/2023
+    Fecha: 09/02/2023
     Descripción: Código en Python que utiliza una función para calcular el resultado de potenciar un número, en este         caso el número 2, coincidiendo con los valores de las posiciones de los bits en código binario, de derecha a             izquierda.
 """
 
