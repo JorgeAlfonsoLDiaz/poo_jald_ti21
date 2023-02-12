@@ -1,6 +1,6 @@
 """
     Reto_4
-    Nombre: Jorge Alfonso Luqueño Díaz
+    Nombre:" Jorge Alfonso Luqueño Díaz
     Fecha: 07/02/2023
     Descripción: Código en Python que lee la entrada de datos para 3 números enteros, y luego imprime el mayor, si es el         caso.
 """
