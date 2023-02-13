@@ -1,5 +1,5 @@
 """
-    Reto_7
+    Reto_7"
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 11/02/2023
     Descripción: Código que pide una entrada de dos números del usuario y muestra en pantalla el resultado de la suma entre estos dos números.
