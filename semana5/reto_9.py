@@ -2,7 +2,7 @@
     Reto_9"
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 13/02/2023
-    Descripción: Código que pide una entrada de dos cadenas, las concatena y las imprime juntas usando una función.
+    Descripción: Código que felicita al usuario por su cumpleaños, utilizando una función con la variable "nombre" como       su argumento, creando una cadena que cumple con el propósito.
 """
 
 def happyBDay(nombre):  # Define la función happyBDay, con un parámetro "nombre".
