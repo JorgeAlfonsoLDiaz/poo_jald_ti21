@@ -1,5 +1,5 @@
 """
-    Reto_9"
+    Reto_10"
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 14/02/2023
     Descripción: Código que pide una entrada de tres números enteros, e imprime en pantalla el resultado de su suma.
