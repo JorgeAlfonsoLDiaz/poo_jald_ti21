@@ -2,7 +2,7 @@
     Programa8
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 07/02/2023
-    Descripción: Código que compila un total de 11 maneras diferentes de resolver el             problema "Crear una aplicación que lea 2 números enteros, los compare y muestre el           número mayor, en caso de que sean iguales mostrar None."
+    Descripción: Código que compila un total de 11 maneras diferentes de resolver el problema "Crear una aplicación que lea 2 números enteros, los compare y muestre el          número mayor, en caso de que sean iguales mostrar None."
 """
 numero1 = int(input("Número 1 "))  # Guarda en "numero1" el valor de la entrada de datos del usuario.
 numero2 = int(input("Número 2 "))  # Guarda en "numero2" el valor de la entrada de datos del usuario.
@@ -51,7 +51,7 @@ elif numero2 > numero1:  # Evalúa si numero2 es mayor que numero1, con
 numero1 = int(input("Número 1 "))  # Guarda en "numero1" el valor de la entrada de datos del usuario.
 numero2 = int(input("Número 2 "))  # Guarda en "numero2" el valor de la entrada de datos del usuario.
 
-if numero1 < numero2  # Evalúa si numero1 es menor que numero2, con una sentencia if.
+if numero1 < numero2:  # Evalúa si numero1 es menor que numero2, con una sentencia if.
   print(numero2)  # Imprime en pantalla el valor de numero2.
 if numero2 < numero1:  # Evalúa si numero2 es menor que numero1, con una sentencia if.
   print(numero1)  # Imprime en pantalla el valor de numero1.

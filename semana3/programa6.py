@@ -20,4 +20,4 @@ elif opcion == 'p':  # Evalúa si la respuesta del usuario fue 'p', para poder c
 
   print("Perímetro: {}".format(perimetro))  # Se imprime en pantalla el siguiente mensaje: "Perímetro: " seguido por el valor de la variable 'perimetro'.
 else:
-  print("Error 404 Not found: Por favor, elija una opción válida. > ")  # # Se imprime en pantalla el siguiente mensaje de error: "Error 404 Not found: Por favor, elija una opción válida. > ".
+  print("Error 404 Not found: Por favor, elija una opción válida. > ")  # Se imprime en pantalla el siguiente mensaje de error: "Error 404 Not found: Por favor, elija una opción válida. > ".

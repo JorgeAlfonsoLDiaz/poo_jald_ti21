@@ -2,7 +2,7 @@
     Programa5
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 26/01/2023
-    Descripción: Uso de input() para pedir entrada de datos al usuario y "casting" de la respuesta para poder sumarlo con números enteros.
+    Descripción: Uso de input() para pedir entrada de datos al usuario y "casting" de la respuesta para poder realizar operaciones con números enteros.
 """
 numero1 = input("Número1 (suma): ")  # Se pide al usuario que introduzca el primer número, a través de un input.
 numero2 = input("Número2 (suma): ")  # Se crea la variable numero2 que guarda el segundo número de la suma.
