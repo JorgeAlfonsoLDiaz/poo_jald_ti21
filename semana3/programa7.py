@@ -2,7 +2,7 @@
     Programa7
     Nombre: Jorge Alfonso Luqueño Díaz
     Fecha: 31/01/2023
-    Descripción: Código que hace uso de input() y otras funciones para calcular el perímetro y el área de            un          círculo y un cuadrado.
+    Descripción: Código que hace uso de input() y otras funciones para calcular el perímetro y el área de un círculo y un cuadrado.
 """
 PI = 3.1416  # Se asigna el valor de 3.1416 a la constante 'PI' .
 radio = input("Bienvenido. Por favor, introduzca el valor del radio del círculo: > ")  # Se pide al usuario que introduzca un valor al radio del círculo.
