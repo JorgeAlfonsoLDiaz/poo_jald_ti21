@@ -1,6 +1,6 @@
 """
     Reto_16"
-    Nombre: Jorge Alfonso Luqueño Díaz
+    Nombre: Jorge Alfonso Luqueño Díaz"
     Fecha: 23/02/2023
     Descripción: Código que pide dos números al usuario, e imprime la suma de ambos, la mayoría del tiempo.
 """
