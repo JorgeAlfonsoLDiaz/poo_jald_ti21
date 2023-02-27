@@ -1,7 +1,7 @@
 """
-    Reto_17"
+    Reto_18"
     Nombre: Jorge Alfonso Luqueño Díaz"
-    Fecha: 24/02/2023
+    Fecha: 25/02/2023
     Descripción: Código que pide el día de la semana al usuario, e imprime el mensaje correspondiente para motivarlo.
 """
 import datetime  # Se importa la librería datetime.
